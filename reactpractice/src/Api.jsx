@@ -24,6 +24,10 @@ const Api = () => {
 
 export default Api;
 
-// obj.JSON.STRINGIFY()   arr=>.map
 
 // stopwatch 
+
+// usereducer
+// use memo use callback
+//  use context
+

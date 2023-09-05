@@ -4,10 +4,12 @@ import Todo from "./Todo";
 import Api from "./Api";
 import Stopwatch from "./Stopwatch";
 import Promises from "./Promises";
+import Reducer from "./Reducer";
+import Usememo from "./Usememo";
 function App() {
   return (
     <>
-      <Promises />
+      <Usememo />
     </>
   );
 }
